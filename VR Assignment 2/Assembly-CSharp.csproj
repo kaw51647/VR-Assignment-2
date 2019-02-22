@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MyScripts\Building.cs" />
+    <Compile Include="Assets\MyScripts\GameManager.cs" />
     <Compile Include="Assets\MyScripts\Missile.cs" />
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
       <HintPath>/Users/kevinwebb 1/Documents/VR-Assignment2/VR Assignment 2/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
