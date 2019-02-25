@@ -23,7 +23,14 @@ public class Missile : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        Debug.Log("Missile is exploding");
-        Destroy(this.gameObject);
+        Rigidbody rb = collision.rigidbody;
+        Hand h = rb.GetComponent<Hand>();
+
+
+        if (h == null)
+        {
+            Debug.Log("Missile is exploding");
+            Destroy(this.gameObject);
+        }
     }
 }

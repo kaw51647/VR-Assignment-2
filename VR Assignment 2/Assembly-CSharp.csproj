@@ -62,7 +62,10 @@
   <ItemGroup>
     <Compile Include="Assets\MyScripts\Building.cs" />
     <Compile Include="Assets\MyScripts\GameManager.cs" />
+    <Compile Include="Assets\MyScripts\Gun.cs" />
+    <Compile Include="Assets\MyScripts\Hand.cs" />
     <Compile Include="Assets\MyScripts\Missile.cs" />
+    <Compile Include="Assets\MyScripts\PickupObject.cs" />
     <Compile Include="Assets\MyScripts\Player.cs" />
     <Compile Include="Assets\MyScripts\WarningZone.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scenes\Scripts\TestScript.cs" />
