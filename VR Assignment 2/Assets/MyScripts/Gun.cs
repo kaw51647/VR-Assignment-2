@@ -22,7 +22,7 @@ public class Gun : MonoBehaviour
         if (gunTriggerValue > gunTriggerThreshold)
         {
             Rigidbody instantiatedProjectile = Instantiate(projectile, transform.position, transform.rotation) as Rigidbody;
-            instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, speed));
+            instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(1, 0, speed));
             Debug.Log("Shot fired!");
         }
     }

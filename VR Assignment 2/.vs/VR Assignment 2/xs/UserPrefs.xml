@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{64993F43-A902-80A5-9259-16591EA44E86}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyScripts/Gun.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyScripts/Missile.cs">
     <Files>
-      <File FileName="Assets/MyScripts/Missile.cs" Line="18" Column="25" />
-      <File FileName="Assets/MyScripts/Building.cs" Line="31" Column="13" />
-      <File FileName="Assets/MyScripts/GameManager.cs" Line="50" Column="10" />
+      <File FileName="Assets/MyScripts/Missile.cs" Line="28" Column="9" />
+      <File FileName="Assets/MyScripts/Building.cs" Line="23" Column="20" />
+      <File FileName="Assets/MyScripts/GameManager.cs" Line="60" Column="45" />
       <File FileName="Assets/MyScripts/WarningZone.cs" Line="21" Column="39" />
-      <File FileName="Assets/MyScripts/PickupObject.cs" Line="26" Column="57" />
-      <File FileName="Assets/MyScripts/Player.cs" Line="1" Column="1" />
-      <File FileName="Assets/MyScripts/Hand.cs" Line="50" Column="35" />
-      <File FileName="Assets/MyScripts/Gun.cs" Line="8" Column="17" />
+      <File FileName="Assets/MyScripts/PickupObject.cs" Line="26" Column="34" />
+      <File FileName="Assets/MyScripts/Player.cs" Line="10" Column="9" />
+      <File FileName="Assets/MyScripts/Hand.cs" Line="26" Column="6" />
+      <File FileName="Assets/MyScripts/Gun.cs" Line="27" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
